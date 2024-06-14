@@ -1,0 +1,34 @@
+{
+  "name": "user-list-mini-project",
+  "version": "1.0.0",
+  "description": "Mini Project - User List",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdakram2001/User-List-Mini-Project-React.git"
+  },
+  "keywords": [
+    "ReactProject",
+    "Project"
+  ],
+  "author": "Md Ahmod Akram Choudhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdakram2001/User-List-Mini-Project-React/issues"
+  },
+  "homepage": "https://github.com/mdakram2001/User-List-Mini-Project-React#readme",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
